@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Runtime topic data (created by testapp.py)
+topics/
+
+# Local archives / logs
+*.rar
+*.log
+
+# Unrelated sample data
+sample.json
+
+# Env / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
