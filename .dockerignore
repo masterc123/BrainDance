@@ -1,0 +1,13 @@
+.git
+.gitignore
+.gitattributes
+topics/
+__pycache__/
+*.py[cod]
+*.rar
+*.log
+sample.json
+.env
+.DS_Store
+Thumbs.db
+testapp.pyc
